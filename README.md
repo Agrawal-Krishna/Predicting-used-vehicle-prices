@@ -1,6 +1,5 @@
 # Predicting-used-vehicle-prices
 Predicting used vehicle prices using Machine Learning
-Here is a link: https://colab.research.google.com/drive/1F0Jfbw7y896_QPwEWMlaIw3ThKvF2tRw?usp=sharing
 
 Determining the correct price of a used car is challenging due to various factors. Using machine learning techniques,we aim to build a model that canaccurately predict the prices of used cars based on various factors.
 This data set is downloaded from Kaggle website:https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data
@@ -21,6 +20,9 @@ We are trying to understand what features have influence on price of a used Vehi
 # Real-World Applications and Implications of Used Car Dataset Results:
 
 ● Automated Vehicle Pricing: Machine learning algorithms can be used to predict the fair market value of a vehicle based on its make, model, year, condition, and other factors. This can assist dealerships, auction houses, and private sellers in accurately and competitively pricing their vehicles.
+
+# Colab link: 
+https://colab.research.google.com/drive/1F0Jfbw7y896_QPwEWMlaIw3ThKvF2tRw?usp=sharing
 
 ● Inventory Management: Dealerships and automakers can use machine learning algorithms to forecast demand for various types of vehicles and adjust inventory levels
 accordingly. This can help them reduce the costs of holding excess inventory an increase their overall profitability.
