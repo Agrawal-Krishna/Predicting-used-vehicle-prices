@@ -21,11 +21,10 @@ We are trying to understand what features have influence on price of a used Vehi
 
 ● Automated Vehicle Pricing: Machine learning algorithms can be used to predict the fair market value of a vehicle based on its make, model, year, condition, and other factors. This can assist dealerships, auction houses, and private sellers in accurately and competitively pricing their vehicles.
 
-# Colab link: 
-https://colab.research.google.com/drive/1F0Jfbw7y896_QPwEWMlaIw3ThKvF2tRw?usp=sharing
-
 ● Inventory Management: Dealerships and automakers can use machine learning algorithms to forecast demand for various types of vehicles and adjust inventory levels
 accordingly. This can help them reduce the costs of holding excess inventory an increase their overall profitability.
 
 ● Leasing and Financing: Machine learning algorithms can be used to predict the residual value of a vehicle and assist in determining the terms of a lease or loan. This can reduce the risk of default and terms offered to customers.
 
+# Colab link: 
+https://colab.research.google.com/drive/1F0Jfbw7y896_QPwEWMlaIw3ThKvF2tRw?usp=sharing
